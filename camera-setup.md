@@ -16,7 +16,11 @@ Setting the camera distance is a balancing act. You want the subject to fill the
 
 ### How to set the camera distance:
 
-TBD
+- Set the Focal length to a high value (55mm)
+- Place the subject in frame
+- Move the camera away from the subject until it fills the frame correctly
+- Check for perspective distortion using a straight edge near the edge of your camera frame
+- Adjust as necessary
 
 ## THIRD: Set up lights
 
