@@ -6,3 +6,4 @@ These notes are for using **Dragonframe 4** software to do animation of all kind
 
 [Camera Setup](camera-setup.md)
 [Dragonframe Notes](dragonframe.md)
+[Exporting Movies](exporting.md)
