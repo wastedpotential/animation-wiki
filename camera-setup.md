@@ -41,20 +41,21 @@ I have no idea how to do this
 
 ### Dragonframe Histogram
 
-This can be used to make sure you have the right color profile. You generally don't want the graph clipped at the top or bottom range (unless you are trying to achieve a specific look).
+This can be used to make sure you have the right color profile. You generally don't want the graph clipped at the top or bottom range (unless you are trying to achieve a specific look).\
 ![Histogram](/images/cinema_histogram.jpg)
 
 # Camera Setup in Dragonframe
 
 To make these adjustments, the camera must be...
 
-- Turned on
-- Set to manual mode
+- Turned on (use a power supply, not a camera battery)
+- Camera set to manual mode
+- Lens set to manual focus
 - Connected to laptop via USB cable
-- Dragonframe is set to Cinematography mode (camera icon in upper right corner)
+- Dragonframe is set to Cinematography mode (camera icon in upper right corner)\
   ![Cinematography Icon](/images/icon_cinematography.jpg)
 
-Use the Camera Settings Window to set the following values. The **Test Shot** button will allow you to take test shots as you get this dialed in
+Use the Camera Settings Window to set the following values. The **Test Shot** button will allow you to take test shots as you get this dialed in\
 ![Camera Settings](/images/cinema_camera_settings.jpg)
 
 ## FIRST: f-stop setting
@@ -62,10 +63,12 @@ Use the Camera Settings Window to set the following values. The **Test Shot** bu
 f-stop sets your depth of field. Higher f-stop number = deeper field
 **examples:**
 
-- f/32 = landscape (large depth of field)
-- f/5.6 = portrait (small depth of field)
+- f/32 = landscape (large depth of field) - everything will be in focus: foreground, background, subject. This give a more "realistic" feel to your film.
+- f/5.6 = portrait (small depth of field) - emphasizes the "miniature" aspect of your film.
 
-In most cases, depth of field should be high for animation, unless you are trying to achieve a special effect
+In most cases, depth of field should be high for animation, unless you are trying to achieve a special effect.
+
+**TLDR; When in doubt, use f/8 - it will soften the background and foreground while allowing a reasonable depth of field**
 
 ## SECOND: ISO setting
 
@@ -75,6 +78,9 @@ ISO refers to how sensitive your camera is to light.
 - Lower ISO = better in brighter light with crisper (less grain) images
 
 Generally, the lowest ISO you can get away with is best
+
+**TLDR; Use ISO 100 and set the lock button in Dragonframe to prevent it from changing**\
+![Dragonframe ISO Lock](/images/icon_iso_lock.jpg)
 
 ## THIRD: Shutter speed setting
 
@@ -89,7 +95,7 @@ This assumes that you subject is completely still, so the shutter speed doesn't 
 
 You should be doing a rough focus after each step in this process. Once you have all of the above settings dialed in, do a final focus with the **Focus Check** feature in Dragonframe.
 
-- click the Focus Check button under the preview window
+- click the Focus Check button under the preview window\
   ![Focus Check](/images/cinema_focus_check.jpg)
 - Move the window that appears to the part of your frame you want to check
 - Double click in the frame to zoom in
