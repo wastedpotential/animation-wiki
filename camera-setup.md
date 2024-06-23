@@ -60,7 +60,7 @@ Use the Camera Settings Window to set the following values. The **Test Shot** bu
 
 ## FIRST: f-stop setting
 
-f-stop sets your depth of field. Higher f-stop number = deeper field
+f-stop sets your depth of field. Higher f-stop number = deeper field\
 **examples:**
 
 - f/32 = landscape (large depth of field) - everything will be in focus: foreground, background, subject. This give a more "realistic" feel to your film.
@@ -90,6 +90,8 @@ After you have optimized for f-stop and ISO, set your shutter speed. The proper 
 - too dark = go to slower shutter
 
 This assumes that you subject is completely still, so the shutter speed doesn't really matter. If shutter speed matters for some reason, you may need to do something different.
+
+Note: Slower shutter speeds can help reduce light flicker. If you want to check for light flicker, shoot some video in slomo setting, then play it back to see if there is observable flickering.
 
 ## FOURTH: FOCUS
 
