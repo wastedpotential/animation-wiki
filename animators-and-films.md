@@ -138,7 +138,8 @@ Here's a non-comprehensive list of things to check out...
 ## Smallfilms (Oliver Postgate, Peter Firmin)
 
 - Pogles Wood
-- The Clangers (1969)
+- The Clangers (1969-74)
+- Bagpuss (1974)
 
 ## Serge Danot
 
@@ -153,7 +154,7 @@ Here's a non-comprehensive list of things to check out...
 
 - Postman Pat (1981)
 
-## Brian Cosgrove and MArk Hall
+## Brian Cosgrove and Mark Hall
 
 - The Wind in the Willows (1983)
 - Noddy (1992)
@@ -201,7 +202,7 @@ Here's a non-comprehensive list of things to check out...
 
 - Creation (1981)
 - Mona Lisa Descending a Staircase (1992)
-- Lost and Founf (2012)
+- Lost and Found (2012)
 
 ## Aardman Animation
 
@@ -262,4 +263,4 @@ Here's a non-comprehensive list of things to check out...
 
 ## Max Winston
 
-- I Live in the Woods
+- I Live in the Woods (2008)
