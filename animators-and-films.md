@@ -197,10 +197,11 @@ Here's a non-comprehensive list of things to check out...
 - The Great Cognito (1982)
 - The Adventures of Mark Twain (1985)
 
-## Joan Gatz
+## Joan Gratz
 
 - Creation (1981)
 - Mona Lisa Descending a Staircase (1992)
+- Lost and Founf (2012)
 
 ## Aardman Animation
 
@@ -226,3 +227,39 @@ Here's a non-comprehensive list of things to check out...
 - Screen Play (1992)
 - Rigoletto (1993)
 - Achilles (1995)
+
+## Emma De Swaaf and Marc James Roels
+
+- Oh Willy (2012)
+
+## Joseph Wallace
+
+- The Man Who Was Afraid of Falling (2011)
+
+## Robert Morgan
+
+- Bobby Yeah (2011)
+
+## Joanna Quinn
+
+- Wife of Bath (1998)
+
+## Michael Cusack
+
+- Sleight of Hand (2012)
+
+## Ainslie Henderson
+
+- I Am Tom Moody (2012)
+
+## Pes
+
+- Roof Sex (2001)
+
+## Bexie Bush
+
+- Britain (2011)
+
+## Max Winston
+
+- I Live in the Woods
