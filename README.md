@@ -7,5 +7,6 @@ These notes are for using **Dragonframe 4** software to do animation of all kind
 - [Camera Setup](camera-setup.md)
 - [Dragonframe Notes](dragonframe.md)
 - [Exporting Movies](exporting.md)
+- [Compositing Live Video and Stop Motion](compositing.md)
 - [Stop Motion Puppets](puppets.md)
 - [Animators and Films](animators-and-films.md)
