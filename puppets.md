@@ -16,7 +16,7 @@ Recommended Clay for animation is a Plastilina-type clay It is oil and wax based
 Sulphur-free\*:
 
 - Van Aken - available at Hobby Lobby or Blick
-- Newplast - available in Europe or online
+- Newplast - Not actually available anymore. Searching for "Newplast" may bring up alternatives available in Europe or online
 - Craft Smart Plastalina - available at Michaels (can be hard and crumbly)
 - Crayola Modeling Clay (maybe not guaranteed sulphur-free?)
 
