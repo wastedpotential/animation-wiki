@@ -57,6 +57,23 @@ below 15 = PROBABLY TIME TO REPLACE
 - Transparency ink side should be against the bottom of the screen (emulsion to emulsion)
 - Don't forget that t-shirts are usually printed upside down in the press
 
+### Specifics for my setup:
+
+When using Ecotex PWR (the purple stuff), do the exposure as follows. **ALL OF THIS NEEDS TO BE DONE IN MINIMAL UV LIGHT**
+
+- coat the screen on both sides with the sharp edge of the scoop coater nad leave it to dry in a dark place
+- Print the stencil on a transparency with Printfab set to 400% ink deposit (the max) and disable all of the colors except black
+- Place a black background under the screen (black foamcore works well)
+- Place the screen so that the bottom is facing up
+- Place the stencil on the screen so that it looks backward from above (remember that everthing is upside down)
+- If printing a tshirt, the stencil should also be oriented so that the bottom of the design is on the square bar side of the frame
+- Place a piece of glass on top of everything to press the stencil tightly to the screen
+- Place the Speedball UV light 12 inches above the screen surface
+- Expose the stencil to the light for 30 seconds
+- immediately wash the stencil out ( keep additional UV exposure to a minimum)
+- Blot the screen with paper towels to help prevent emulsion haze
+- Leave the screen out in the sun to finish drying and exposure
+
 ## Wash out the stencil:
 
 - Wash screen out with cool water
